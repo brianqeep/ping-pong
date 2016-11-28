@@ -14,10 +14,9 @@ $(document).ready(function(){
         else if (i%3==0) {
           result[i-1]="ping";
         }
-    }
+      }
     for (var j = 0; j < result.length; j++) {
         $("#answer").append("<li>"+result[j]+"</li>");
     }
-
   });
 });

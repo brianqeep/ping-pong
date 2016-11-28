@@ -9,7 +9,7 @@ h1{
 .result{
   height: 800px;
   width: 300px;
-  background-color: teal;
+  background-color: #009900;
   margin-left: 70px;
   margin-left: 50px;
 }
@@ -40,7 +40,7 @@ h1{
 }
 #head{
   color: #fff;
-  font-size: 50px;
+  font-size: 80px;
   font-family: 'Bungee Inline', cursive;
   padding-top: 4%;
 }
