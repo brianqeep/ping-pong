@@ -1,5 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+h1{
+  text-align: center;
+}
 .result{
   height: 600px;
   width: 300px;
   background-color: teal;
+}
+.header{
+  height: 200px;
+  width: 100%;
+  background-color: orange;
+}
+.body-container{
+  height: 600px;
+  width: 100%;
+  background-color: yellow;
+}
+#answer{
+  background-color: #fff;
+  height: 400px;
 }
